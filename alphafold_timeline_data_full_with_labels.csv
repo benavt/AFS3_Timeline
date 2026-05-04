@@ -1,0 +1,27 @@
+Event,Date,Description,Label
+AlphaFold v1,Dec 2018,"Initial DeepMind AI for protein structure prediction; first major success at CASP13, establishing the field.",CASP
+AlphaFold2,Jun 2020,"Revolutionary transformer-based architecture; massive leap in accuracy, foundational for all subsequent work.",Conformational Modeling
+AF2 CASP14 Success,Dec 2020,Historic breakthrough solving the 50-year protein folding problem with near-experimental accuracy.,CASP
+AFRank (Rooney),Mar 2022,Key innovation using AF2 as a ranking tool; dramatically improved model selection and assessment.,Conformational Modeling
+AF Alt (del Alamo / Meiler),Mar 2022,AlphaFold-alt method: shallow MSA sampling to generate alternative conformational states.,Conformational Modeling
+ProteinMPNN,Sep 2022,Baker lab deep learning method for rapid and accurate protein sequence design given a backbone.,Protein Design
+RFDiffusion,Dec 2022,RoseTTAFold diffusion model for de novo protein structure and function design (Baker lab).,Protein Design
+AFsample,Dec 2022,Wallner lab method using massive stochastic sampling on AF2; top performer for multimers at CASP15.,Conformational Modeling
+CASP15,Dec 2022,CASP experiment shifting focus to protein complexes/multimers; benchmark for community progress.,CASP
+MULTICOM,2022-2025,Consistent high-performing server/human predictor (esp. multimers in CASP15/16).,Conformational Modeling
+ESMFold,Mar 2023,Meta AI's language-model-based fast structure predictor (single-sequence).,Conformational Modeling
+AF Cluster,Nov 2023,Sequence clustering + AlphaFold2 to predict multiple conformations of metamorphic proteins.,Conformational Modeling
+AlphaFlow,Feb 2024,Flow-matching generative model built on AlphaFold for conformational ensembles.,Conformational Modeling
+AFsample2,May 2024,Wallner extension generating conformational ensembles from AF2 via MSA masking; advanced dynamics prediction.,Conformational Modeling
+OpenFold,Jun 2024,"Fully open-source, trainable reimplementation of AlphaFold2.",Conformational Modeling
+AlphaProteo,Sep 2024,DeepMind AI system for designing high-affinity protein binders (press release).,Protein Design
+BindCraft,Oct 2024,Open-source automated pipeline for one-shot de novo protein binder design with high experimental success.,Protein Design
+Boltz-1,Nov 2024,Open-source AlphaFold3-level biomolecular interaction model (MIT).,Conformational Modeling
+CASP16,Dec 2024,CASP assessing AF3 and next-gen methods; highlighted performance plateaus on difficult targets.,CASP
+BioEmu,Dec 2024,Microsoft biomolecular emulator for rapid ensemble sampling.,Conformational Modeling
+Boltz-2,Jun 2025,Next-gen model combining structure + binding affinity prediction.,Conformational Modeling
+BoltzGen,Nov 2025,MIT generative AI model for universal protein binder design built on Boltz-2.,Protein Design
+ProteinEBM,Dec 2025,Protein diffusion models used as statistical potentials / energy-based models.,Conformational Modeling
+AFsample3,Jan 2026,Advanced sampling framework on AF3 for better conformational state generation and selection.,Conformational Modeling
+AFRocket,Apr 2026,"AlphaFold-based refinement using experimental data (cryo-EM, X-ray).",Conformational Modeling
+CASP17,Dec 2026,Upcoming CASP round evaluating latest AI methods in an evolving field.,CASP
