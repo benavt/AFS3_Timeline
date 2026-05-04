@@ -1,0 +1,11 @@
+Event,Date,Description
+AlphaFold v1,Dec 2018,"Initial DeepMind AI for protein structure prediction; first major success at CASP13, establishing the field."
+AlphaFold2,Jun 2020,"Revolutionary transformer-based architecture; massive leap in accuracy, foundational for all subsequent work."
+AF2 CASP14 Success,Dec 2020,Historic breakthrough solving the 50-year protein folding problem with near-experimental accuracy.
+AFRank (Rooney),Mar 2022,Key innovation using AF2 as a ranking tool; dramatically improved model selection and assessment.
+CASP15,Dec 2022,CASP experiment shifting focus to protein complexes/multimers; benchmark for community progress.
+AFsample,Dec 2022,Wallner lab method using massive stochastic sampling on AF2; top performer for multimers at CASP15.
+CASP16,Dec 2024,CASP assessing AF3 and next-gen methods; highlighted performance plateaus on difficult targets.
+AFsample2,May 2024,Wallner extension generating conformational ensembles from AF2 via MSA masking; advanced dynamics prediction.
+AFsample3,Jan 2026,Advanced sampling framework on AF3 for better conformational state generation and selection.
+CASP17,Dec 2026,Upcoming CASP round evaluating latest AI methods in an evolving field.
